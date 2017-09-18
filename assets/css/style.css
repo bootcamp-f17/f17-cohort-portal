@@ -1,0 +1,17 @@
+/* FONTS */
+  /* Import styles: @import url('https://fonts.googleapis.com/css?family=Exo+2|Open+Sans|Lato');; */
+  /* Exo 2: font-family: 'Exo 2', sans-serif; */
+  /* Open Sans: font-family: 'Open Sans', sans-serif; */
+  /* Lato: font-family: 'Lato', sans-serif; */
+
+/* COLORS */
+  /* Red: #cb232e; */
+  /* Dark Gray: #3e3e3e; */
+  /* Light Gray: #eaeaea; */
+  /* Black: #000000; */
+  /* White: #FFFFFF; */
+  /* Blue: #557991; */
+
+  body {
+  	background-color: white;
+  }
