@@ -1,0 +1,25 @@
+{
+  "name": "f17-cohort-portal",
+  "version": "1.0.0",
+  "description": "This is a website that highlights accomplishments of the Awesome Inc U Fall 2017 Bootcamp cohort.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-f17/f17-cohort-portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootcamp-f17/f17-cohort-portal/issues"
+  },
+  "homepage": "https://github.com/bootcamp-f17/f17-cohort-portal#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
